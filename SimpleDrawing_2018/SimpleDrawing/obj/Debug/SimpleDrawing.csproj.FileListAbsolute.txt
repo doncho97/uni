@@ -1,0 +1,13 @@
+C:\Users\andon\Desktop\SimpleDrawing_2018\SimpleDrawing\obj\Debug\SimpleDrawing.csprojAssemblyReference.cache
+C:\Users\andon\Desktop\SimpleDrawing_2018\SimpleDrawing\obj\Debug\SimpleDrawing.about.resources
+C:\Users\andon\Desktop\SimpleDrawing_2018\SimpleDrawing\obj\Debug\SimpleDrawing.frmDiagram.resources
+C:\Users\andon\Desktop\SimpleDrawing_2018\SimpleDrawing\obj\Debug\SimpleDrawing.frmEditIEditable.resources
+C:\Users\andon\Desktop\SimpleDrawing_2018\SimpleDrawing\obj\Debug\SimpleDrawing.frmMain.resources
+C:\Users\andon\Desktop\SimpleDrawing_2018\SimpleDrawing\obj\Debug\SimpleDrawing.frmRun.resources
+C:\Users\andon\Desktop\SimpleDrawing_2018\SimpleDrawing\obj\Debug\SimpleDrawing.Properties.Resources.resources
+C:\Users\andon\Desktop\SimpleDrawing_2018\SimpleDrawing\obj\Debug\SimpleDrawing.csproj.GenerateResource.cache
+C:\Users\andon\Desktop\SimpleDrawing_2018\SimpleDrawing\obj\Debug\SimpleDrawing.csproj.CoreCompileInputs.cache
+C:\Users\andon\Desktop\SimpleDrawing_2018\SimpleDrawing\bin\Debug\SimpleDrawing.exe
+C:\Users\andon\Desktop\SimpleDrawing_2018\SimpleDrawing\bin\Debug\SimpleDrawing.pdb
+C:\Users\andon\Desktop\SimpleDrawing_2018\SimpleDrawing\obj\Debug\SimpleDrawing.exe
+C:\Users\andon\Desktop\SimpleDrawing_2018\SimpleDrawing\obj\Debug\SimpleDrawing.pdb
